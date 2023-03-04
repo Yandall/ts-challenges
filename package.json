@@ -16,7 +16,5 @@
     "url": "https://github.com/Yandall/ts-challenges/issues"
   },
   "homepage": "https://github.com/Yandall/ts-challenges#readme",
-  "dependencies": {
-    "zod": "^3.21.0"
-  }
+  "dependencies": {}
 }
