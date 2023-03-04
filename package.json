@@ -1,0 +1,22 @@
+{
+  "name": "ts-challenges",
+  "version": "1.0.0",
+  "description": "Retos de Typescript para aprender utility types",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yandall/ts-challenges.git"
+  },
+  "author": "Yandall",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yandall/ts-challenges/issues"
+  },
+  "homepage": "https://github.com/Yandall/ts-challenges#readme",
+  "dependencies": {
+    "zod": "^3.21.0"
+  }
+}
