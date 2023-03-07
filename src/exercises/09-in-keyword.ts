@@ -6,6 +6,9 @@ const userObj = {
   lastName: "Agudelo",
   internalId: 2,
   countryId: 123123,
+  oldId: 0,
+  idPlayer: 9,
+  idState: 1,
 };
 
 type IdUnion = never;
@@ -19,6 +22,9 @@ type Test = Expect<
       id: number;
       internalId: number;
       countryId: number;
+      oldId: number;
+      idPlayer: number;
+      idState: number;
     }
   >
 >;
